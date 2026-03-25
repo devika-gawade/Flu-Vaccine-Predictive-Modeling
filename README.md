@@ -25,3 +25,4 @@ We moved beyond simple classifiers to ensemble methods to capture complex behavi
 Using **Permutation Importance**, we identified the top predictors for vaccine uptake:
 1. **Physician Recommendation:** The strongest driver for both H1N1 and Seasonal vaccines.
 2. **Perception of Risk:** Personal belief in the likelihood of getting sick without the vaccine.
+3. **Opinion on Effectiveness:** Trust in the vaccine's ability to prevent illness.
